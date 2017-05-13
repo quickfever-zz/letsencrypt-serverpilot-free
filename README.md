@@ -32,7 +32,7 @@ If git isn't installed on your droplet, install it using this command
 
 and then run this command to clone the repository
 
-<pre>sudo git clone https://github.com/quickfever/digitalocean-serverpilot-letsencrypt.git && cd digitalocean-serverpilot-letsencrypt && sudo mv sple.sh /usr/local/bin/qfssl && sudo chmod +x /usr/local/bin/qfssl
+<pre>sudo git clone https://github.com/quickfever/letsencrypt.git && cd letsencrypt && sudo mv sple.sh /usr/local/bin/qfssl && sudo chmod +x /usr/local/bin/qfssl
 
 </pre>
 
