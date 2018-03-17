@@ -5,6 +5,7 @@ Automate the installation of Let's Encrypt SSL on the free plan of ServerPilot
 ServerPilot's paid plan costs only $10 per month that unlocks auto installation of Let's Encrypt SSL along with some other premium features. But if you don't want to spend that $10 then this script can automate the installation of the SSL on your ServerPilot servers. When you activate the SSL for an app, this script adds a cron job as well that takes care of the renewal of your Let's Encrypt SSL.
 
 ## Getting started
+![png](https://www.quickfever.com/wp-content/uploads/2017/05/copy_repo.png)
 
 #### Clone the repo
 Run this command to clone the reposity and to add the CRON job for auto-renewal of the certs:
