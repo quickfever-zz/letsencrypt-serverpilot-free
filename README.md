@@ -19,9 +19,11 @@ Successful execution of the above command will clone the script to your system a
 ```bash
 $ qfssl
 ```
-You will be prompted to provide the required information and your SSL will be installed in matter of a few seconds.
+Follow on-screen instructions.
 
-Any questions? Ask me in my blog post [here](https://www.quickfever.com/4146/how-to-install-letsencrypt-ssl-serverpilot-free-plan/).
+![png](https://www.quickfever.com/wp-content/uploads/2017/05/ssh_ssl_command.png)
+
+Need help? Ask me in my blog post [here](https://www.quickfever.com/4146/how-to-install-letsencrypt-ssl-serverpilot-free-plan/).
 
 ## How to Uninstall
 First of all, uninstall the SSL from each domain by choosing ```uninstall``` option after executing ```qfssl``` command. This step is optional and this removes the added vhosts. If you don't want to remove the vhosts and only want to remove the script, then ignore this step.
